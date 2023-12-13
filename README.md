@@ -14,4 +14,4 @@ Para visualizar a aplicação no browser:
 
 
 ## Projeto FIGMA
-[https://www.figma.com/file/zb9jOnDbVQTHftUM33VORB/Main?type=design&node-id=200%3A103&mode=design&t=oFJYQdJEJ98VFIVC-1]
+[https://www.figma.com/file/zb9jOnDbVQTHftUM33VORB/Main?type=design&node-id=200%3A103&mode=design&t=hrMyVEan8fY63hgs-1]
